@@ -1,0 +1,32 @@
+[
+  {
+    "task": "Mop floors",
+    "frequency": "weekly",
+    "type": "recurring",
+    "lastSent": "2025-10-22T15:18:26.548Z"
+  },
+  {
+    "task": "Change air filter",
+    "frequency": "monthly",
+    "type": "recurring",
+    "lastSent": "2025-10-15T00:00:00Z"
+  },
+  {
+    "task": "Inspect roof",
+    "frequency": "quarterly",
+    "type": "recurring",
+    "lastSent": "2025-10-22T15:18:26.548Z"
+  },
+  {
+    "task": "Deep clean garage",
+    "frequency": "semiannual",
+    "type": "recurring",
+    "lastSent": "2025-10-22T15:18:26.548Z"
+  },
+  {
+    "task": "File taxes",
+    "frequency": "annual",
+    "type": "recurring",
+    "lastSent": "2025-10-22T15:18:26.548Z"
+  }
+]
