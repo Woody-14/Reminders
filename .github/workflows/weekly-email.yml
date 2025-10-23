@@ -21,7 +21,7 @@ jobs:
         run: npm install @sendgrid/mail
 
       - name: Send weekly email
-        run: node sendWeeklyTasks.js
+        run: node sender.js
         env:
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
           FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
